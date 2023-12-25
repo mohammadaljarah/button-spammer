@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eminj\\source\\repos\\button-spammer\\button-spammer.csproj": {}
+    "C:\\Users\\eminj\\Source\\Repos\\mohammadaljarah\\button-spammer\\button-spammer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eminj\\source\\repos\\button-spammer\\button-spammer.csproj": {
+    "C:\\Users\\eminj\\Source\\Repos\\mohammadaljarah\\button-spammer\\button-spammer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eminj\\source\\repos\\button-spammer\\button-spammer.csproj",
+        "projectUniqueName": "C:\\Users\\eminj\\Source\\Repos\\mohammadaljarah\\button-spammer\\button-spammer.csproj",
         "projectName": "button-spammer",
-        "projectPath": "C:\\Users\\eminj\\source\\repos\\button-spammer\\button-spammer.csproj",
+        "projectPath": "C:\\Users\\eminj\\Source\\Repos\\mohammadaljarah\\button-spammer\\button-spammer.csproj",
         "packagesPath": "C:\\Users\\eminj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eminj\\source\\repos\\button-spammer\\obj\\",
+        "outputPath": "C:\\Users\\eminj\\Source\\Repos\\mohammadaljarah\\button-spammer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eminj\\AppData\\Roaming\\NuGet\\NuGet.Config",

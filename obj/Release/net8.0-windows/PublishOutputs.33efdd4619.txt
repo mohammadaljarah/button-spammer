@@ -1,0 +1,5 @@
+C:\Users\eminj\source\repos\mohammadaljarah\button-spammer\Executable\button-spammer.exe
+C:\Users\eminj\source\repos\mohammadaljarah\button-spammer\Executable\button-spammer.dll
+C:\Users\eminj\source\repos\mohammadaljarah\button-spammer\Executable\button-spammer.deps.json
+C:\Users\eminj\source\repos\mohammadaljarah\button-spammer\Executable\button-spammer.runtimeconfig.json
+C:\Users\eminj\source\repos\mohammadaljarah\button-spammer\Executable\button-spammer.pdb

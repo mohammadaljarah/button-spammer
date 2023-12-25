@@ -1,0 +1,17 @@
+C:\Users\eminj\Source\Repos\mohammadaljarah\button-spammer\bin\Release\net8.0-windows\button-spammer.exe
+C:\Users\eminj\Source\Repos\mohammadaljarah\button-spammer\bin\Release\net8.0-windows\button-spammer.deps.json
+C:\Users\eminj\Source\Repos\mohammadaljarah\button-spammer\bin\Release\net8.0-windows\button-spammer.runtimeconfig.json
+C:\Users\eminj\Source\Repos\mohammadaljarah\button-spammer\bin\Release\net8.0-windows\button-spammer.dll
+C:\Users\eminj\Source\Repos\mohammadaljarah\button-spammer\bin\Release\net8.0-windows\button-spammer.pdb
+C:\Users\eminj\Source\Repos\mohammadaljarah\button-spammer\obj\Release\net8.0-windows\button_spammer.Form1.resources
+C:\Users\eminj\Source\Repos\mohammadaljarah\button-spammer\obj\Release\net8.0-windows\button-spammer.csproj.GenerateResource.cache
+C:\Users\eminj\Source\Repos\mohammadaljarah\button-spammer\obj\Release\net8.0-windows\button-spammer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eminj\Source\Repos\mohammadaljarah\button-spammer\obj\Release\net8.0-windows\button-spammer.AssemblyInfoInputs.cache
+C:\Users\eminj\Source\Repos\mohammadaljarah\button-spammer\obj\Release\net8.0-windows\button-spammer.AssemblyInfo.cs
+C:\Users\eminj\Source\Repos\mohammadaljarah\button-spammer\obj\Release\net8.0-windows\button-spammer.csproj.CoreCompileInputs.cache
+C:\Users\eminj\Source\Repos\mohammadaljarah\button-spammer\obj\Release\net8.0-windows\button-spammer.sourcelink.json
+C:\Users\eminj\Source\Repos\mohammadaljarah\button-spammer\obj\Release\net8.0-windows\button-spammer.dll
+C:\Users\eminj\Source\Repos\mohammadaljarah\button-spammer\obj\Release\net8.0-windows\refint\button-spammer.dll
+C:\Users\eminj\Source\Repos\mohammadaljarah\button-spammer\obj\Release\net8.0-windows\button-spammer.pdb
+C:\Users\eminj\Source\Repos\mohammadaljarah\button-spammer\obj\Release\net8.0-windows\button-spammer.genruntimeconfig.cache
+C:\Users\eminj\Source\Repos\mohammadaljarah\button-spammer\obj\Release\net8.0-windows\ref\button-spammer.dll
