@@ -8,19 +8,24 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\eminj\\.nuget\\packages\\": {}
+    "C:\\Users\\gazwa\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eminj\\source\\repos\\button-spammer\\button-spammer.csproj",
+      "projectUniqueName": "D:\\projects\\moproj\\button-spammer\\button-spammer.csproj",
       "projectName": "button-spammer",
-      "projectPath": "C:\\Users\\eminj\\source\\repos\\button-spammer\\button-spammer.csproj",
-      "packagesPath": "C:\\Users\\eminj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eminj\\source\\repos\\button-spammer\\obj\\",
+      "projectPath": "D:\\projects\\moproj\\button-spammer\\button-spammer.csproj",
+      "packagesPath": "C:\\Users\\gazwa\\.nuget\\packages\\",
+      "outputPath": "D:\\projects\\moproj\\button-spammer\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\eminj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gazwa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

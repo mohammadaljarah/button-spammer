@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = button_spammer
-build_property.ProjectDir = C:\Users\eminj\source\repos\button-spammer\
+build_property.ProjectDir = D:\projects\moproj\button-spammer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
